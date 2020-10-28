@@ -10,4 +10,5 @@ public class VendasApplication extends SpringBootServletInitializer {
     public static void main(String[] args) {
         SpringApplication.run(VendasApplication.class, args);
     }
+    //test
 }
